@@ -6,3 +6,4 @@ else:
 
 
 print("Even" if(num % 2 == 0) else "Odd")
+print("Hi")
